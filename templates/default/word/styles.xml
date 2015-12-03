@@ -177,7 +177,7 @@
     <w:pPr>
       <w:keepNext/>
       <w:keepLines/>
-      <w:spacing w:after="240"/>
+      <w:spacing w:after="120"/>
       <w:outlineLvl w:val="0"/>
     </w:pPr>
     <w:rPr>
@@ -201,14 +201,14 @@
     <w:pPr>
       <w:keepNext/>
       <w:keepLines/>
-      <w:spacing w:before="240" w:after="120"/>
+      <w:spacing w:before="240" w:after="60"/>
       <w:outlineLvl w:val="1"/>
     </w:pPr>
     <w:rPr>
       <w:rFonts w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
       <w:b/>
       <w:bCs/>
-      <w:sz w:val="20"/>
+      <w:sz w:val="28"/>
       <w:lang w:eastAsia="ja-JP"/>
     </w:rPr>
   </w:style>
@@ -224,7 +224,7 @@
     <w:pPr>
       <w:keepNext/>
       <w:keepLines/>
-      <w:spacing w:before="200" w:line="276" w:lineRule="auto"/>
+      <w:spacing w:before="100" w:after="50" w:line="276" w:lineRule="auto"/>
       <w:outlineLvl w:val="2"/>
     </w:pPr>
     <w:rPr>
